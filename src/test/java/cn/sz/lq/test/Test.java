@@ -7,5 +7,6 @@ public class Test {
 	}
 	public void show() {
 		System.out.println("nnah");
+		System.out.println("ฮาะดบรมห");
 	}
 }
