@@ -7,6 +7,7 @@ public class Test {
 	}
 	public void show() {
 		System.out.println("nnah");
-		System.out.println("ÎÒĞ´ºÃÁË");
+		System.out.println("æˆ‘ä»¬ä¿ºçˆ±ä½ ");
+		System.out.println("hello javaee");
 	}
 }
